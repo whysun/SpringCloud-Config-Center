@@ -1,1 +1,3 @@
-aaa=aaa
+spring:
+  application:
+    name: config-center
